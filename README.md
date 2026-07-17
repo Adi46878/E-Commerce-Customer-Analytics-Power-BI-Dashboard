@@ -36,4 +36,4 @@ This project analyzes sales data using Microsoft Excel to identify revenue trend
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard]([Images/dashboard.png](https://github.com/Adi46878/E-Commerce-Customer-Analytics-Power-BI-Dashboard/blob/main/Dashboard.png))
